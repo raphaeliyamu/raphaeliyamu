@@ -1,78 +1,59 @@
-# Hi 👋, I'm Raphael Liyamu
+# 👋 Hi, I'm Raphael Liyamu
 
-
-### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
+### Computational Linguist | NLP Researcher | AI for African Languages
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raphaeliyamu&label=Profile%20views&color=0e75b6&style=flat" alt="raphaeliyamu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raphaeliyamu" alt="raphaeliyamu" /></a> </p>
 
 ## 💼 About Me
-- 🔗 Building bridges between Web2 and Web3 technologies
-- 🌱 Currently expanding my skills in **Python, React.js, and SolAAidity**
-- 🚀 Passionate about DeFi, NFTs, and decentralized applications
-- 💡 Focused on creating secure, scalable blockchain solutions
-- ⚡ Fun fact: **Ethical hacker in my spare time**
+- 🧠 I build intelligent systems that understand and generate human language
+- 🌍 Passionate about low-resource and underrepresented languages, especially African NLP
+- 📚 Currently exploring deep learning for morphology, syntax, and semantic parsing
+- 🛠️ Experienced with NLP libraries like spaCy, Hugging Face, CoreNLP, and Gensim
+- 📢 Advocate for open-source tools in inclusive and ethical AI research
+- 🎯 Fun fact: I love training tokenizers almost as much as training in the gym 😄
+
+## 🔍 Areas of Interest
+- Computational Morphology & Syntax  
+- Cross-lingual NLP & Machine Translation  
+- Corpus Linguistics & Annotation Tools  
+- Multilingual Transformers  
+- Speech & Text Analysis for African Languages  
 
 ## 🛠️ Tech Stack
 
-### Blockchain & Web3
-- Solidity / Smart Contracts
-- Web3.js / Ethers.js
-- Hardhat / Truffle
-- MetaMask Integration
-- IPFS / Decentralized Storage
+### NLP & Machine Learning
+- Python (spaCy, NLTK, Gensim, TextBlob)
+- Hugging Face Transformers
+- Stanford CoreNLP
+- OpenNLP
+- Scikit-learn / PyTorch
 
-### Frontend
-- React.js
-- Vue.js
-- JavaScript / TypeScript
-- HTML5 / CSS3
-- UI/UX Design
-
-### Backend
-- Node.js
-- PHP
-- Python
-- RESTful APIs
-- GraphQL
-
-### DevOps & Tools
+### Data & Tools
+- Pandas / NumPy
+- Jupyter / Google Colab
+- Label Studio / Prodigy
 - Git / GitHub
-- Docker
-- CI/CD Pipelines
-- AWS / Cloud Services
 
-### Languages and Tools:
+### DevOps & Deployment
+- Docker
+- FastAPI / Flask
+- Streamlit
+- Hugging Face Spaces
+
+## 🧰 Languages and Tools:
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://ethereum.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="ethereum" width="40" height="40"/>
-  </a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
 </p>
 
 ## 📊 GitHub Stats
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeliyamu&show_icons=true&locale=en&theme=dark" alt="raphaeliyamu" /></p>
 
@@ -81,8 +62,8 @@
 ## 🔗 Connect With Me
 - [LinkedIn](#)
 - [Twitter](#)
-- [Portfolio](#)
+- [Portfolio / Blog](#)
 
 ---
 
-💻 **Open for collaboration on blockchain projects and Web3 initiatives**
+💡 **Open to collaboration on multilingual NLP, African linguistic datasets, and inclusive AI research.**
