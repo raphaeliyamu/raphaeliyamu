@@ -74,9 +74,9 @@
 ## 📊 GitHub Stats
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderszone899&show_icons=true&locale=en&theme=dark" alt="raphaeliyamu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaeliyamu&show_icons=true&locale=en&theme=dark" alt="raphaeliyamu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderszone899&theme=dark" alt="raphaeliyamu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaeliyamu&theme=dark" alt="raphaeliyamu" /></p>
 
 ## 🔗 Connect With Me
 - [LinkedIn](#)
